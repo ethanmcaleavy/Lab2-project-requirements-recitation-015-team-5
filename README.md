@@ -2,5 +2,5 @@
 
 Ethan McAleavy - ethanmcaleavy,
 Musaad Alarifi, Musaadddd
-Oscar Mikus,
+Oscar Mikus - OscarMikus,
 Lindsey Trussell.
