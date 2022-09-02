@@ -1,6 +1,6 @@
 # Lab2-project-requirements-recitation-015-team-5
 
 Ethan McAleavy - ethanmcaleavy,
-Musaad Alarifi, 
+Musaad Alarifi, Musaadddd
 Oscar Mikus,
 Lindsey Trussell.
