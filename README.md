@@ -4,3 +4,5 @@ Ethan McAleavy - ethanmcaleavy,
 Musaad Alarifi, Musaadddd
 Oscar Mikus - OscarMikus,
 Lindsey Trussell.
+Project Team Members
+Ethan McAleavy
