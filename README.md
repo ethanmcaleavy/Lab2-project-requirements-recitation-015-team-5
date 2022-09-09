@@ -4,3 +4,5 @@ Ethan McAleavy - ethanmcaleavy,
 Musaad Alarifi, Musaadddd
 Oscar Mikus - OscarMikus,
 Lindsey Trussell.
+
+This is Oscars edit to the README.md file for lab 3
