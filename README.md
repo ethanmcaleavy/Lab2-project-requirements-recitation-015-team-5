@@ -7,3 +7,5 @@ Lindsey Trussell.
 Solus Thompson
 
 This is Oscars edit to the README.md file for lab 3
+
+This is Lindsey editing the README.md file for review
