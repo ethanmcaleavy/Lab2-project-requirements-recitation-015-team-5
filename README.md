@@ -4,3 +4,4 @@ Ethan McAleavy - ethanmcaleavy,
 Musaad Alarifi, Musaadddd
 Oscar Mikus - OscarMikus,
 Lindsey Trussell.
+Solus Thompson
