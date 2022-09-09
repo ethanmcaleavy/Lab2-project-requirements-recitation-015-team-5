@@ -6,3 +6,4 @@ Oscar Mikus - OscarMikus,
 Lindsey Trussell - lindsey-trussell.
 
 This is Oscars edit to the README.md file for lab 3
+
