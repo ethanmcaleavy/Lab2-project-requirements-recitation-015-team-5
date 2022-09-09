@@ -5,3 +5,5 @@ Musaad Alarifi, Musaadddd
 Oscar Mikus - OscarMikus,
 Lindsey Trussell.
 Solus Thompson
+
+This is Oscars edit to the README.md file for lab 3
