@@ -15,6 +15,8 @@ This is Oscars edit to the README.md file for lab 3
 =======
 Lindsey Trussell - lindsey-trussell.
 
+Oscar edit check
+
 This is Oscars edit to the README.md file for lab 3
 
 >>>>>>> 29a0a7a5242ea103dfe74ddb3b316bc72820eff4
