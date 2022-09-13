@@ -15,6 +15,7 @@ Lindsey Trussell - lindsey-trussell.
 Solus Thompson
 
 Oscar edit check
+Musaad conflict edit 1
 
 This is Oscars edit to the README.md file for lab 3
 
