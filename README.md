@@ -8,7 +8,7 @@ Lindsey Trussell.
 Project Team Members
 Ethan McAleavy
 Musaad Alarifi
-.
+..............
 
 This is Oscars edit to the README.md file for lab 3
 
