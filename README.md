@@ -7,8 +7,13 @@ Oscar Mikus - OscarMikus,
 Lindsey Trussell.
 Project Team Members
 Ethan McAleavy
+<<<<<<< HEAD
 Musaad Alarifi test
 .
+=======
+Musaad Alarifi test
+.
+>>>>>>> main
 
 This is Oscars edit to the README.md file for lab 3
 
